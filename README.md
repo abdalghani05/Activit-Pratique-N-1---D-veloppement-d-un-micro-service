@@ -1,4 +1,4 @@
-##Activité Pratique N° 1 - Développement d'un micro-service
+# Activité Pratique N° 1 - Développement d'un micro-service
 
 Reprendre la démarche de cette vidéo montant comment créer un micro service qui permet des gérer des comptes bancaires. : https://www.youtube.com/watch?v=2-qIoZcvhAw
 
